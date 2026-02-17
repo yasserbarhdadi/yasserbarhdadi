@@ -1,3 +1,10 @@
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Yasser+Barhdadi" alt="Title GitHub Readme" />
+  </a>
+</h1>
+
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=LOADING_EXPLOIT_0x3R9SUS...;BYPASSING_KERNEL_PROTECTION...;ACCESS_GRANTED:_YASSER_BARHDADI" alt="Typing SVG" />
