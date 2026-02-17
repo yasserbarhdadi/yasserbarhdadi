@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://42.fr/">
-    <img src="https://img.shields.io/badge/1337-42_Network-black?style=for-the-badge&logo=42&logoColor=white" alt="1337 School" />
+    <img src="https://img.shields.io/badge/Network-black?style=for-the-badge&logo=42&logoColor=white"/>
   </a>
 </p>
 
