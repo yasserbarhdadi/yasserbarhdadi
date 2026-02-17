@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=36&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Yasser+Barhdadi" alt="Typing SVG" />
   </a>
 </h1>
-
+<br/>
 <p align="center">
   <a href="https://profile.intra.42.fr/users/yabarhda">
     <img src="https://badge.mediaplus.ma/darkblue/yabarhda" alt="42 stats" />
@@ -28,7 +28,7 @@
   <code><b>SYSTEMS & BACKEND SPECIALIST</b></code>
 </p>
 
-<br/>
+
 
 ---
 
@@ -151,17 +151,16 @@ Binary behavior analysis
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python&theme=dark" />
 
-<br/><br/>
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis&theme=dark" />
 
-<br/><br/>
+
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
 
-<br/><br/>
+
 
 ### DevOps & Systems
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions,bash&theme=dark" />
