@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=EXECUTING+EXPLOIT_PATH...;BYPASSING+ASLR+AND+DEP...;[ACCESS+GRANTED]+-+USER:+YASSER+BARHDADI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=LOADING_EXPLOIT_0x3R9SUS...;BYPASSING_KERNEL_PROTECTION...;ACCESS_GRANTED:_YASSER_BARHDADI" alt="Typing SVG" />
 
 <br />
 
@@ -12,47 +12,78 @@
   <img src="https://img.shields.io/badge/Network-1337_Network-blue?style=for-the-badge&logo=42&logoColor=white" alt="1337 School" />
 </a>
 
+<br /><br />
+
+<h3> "Software is just a lock. I build the keys." </h3>
+
+<code><b>STUDENT @ 1337</b></code> | <code><b>REVERSE ENGINEER</b></code> | <code><b>SYSTEMS DEVELOPER</b></code>
+
+<br /><br />
+
+---
+
+<p align="center">
+  I am a <b>Low-Level Specialist</b> passionate about the boundary between hardware and software.<br/> 
+  Whether it's implementing <b>DDA raycasting</b> in C or performing <b>runtime memory patches</b> on ELF binaries,<br/> 
+  I focus on performance, security, and understanding the binary truth.
+</p>
+
+---
+
+</div>
+
+### 📂 SYSTEM_LOG: Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **🛡️ Memory Research** | Live memory patching and pointer scanning on Linux games. Bypassing logic via AOB injection. | `PINCE` `C++` `GDB` |
+| **🌐 Webserv** | High-concurrency HTTP/1.1 server using non-blocking I/O multiplexing. | `C++` `Sockets` `Unix` |
+| **🕹️ cub3d** | A 3D graphics engine built from scratch using the Digital Differential Analyzer (DDA) algorithm. | `C` `MinilibX` `Math` |
+| **🐳 Inception** | Complete DevOps orchestration of a containerized infrastructure under strict isolation. | `Docker` `Bash` `Nginx` |
+
+---
+
+### 🛠️ HARDWARE_ABSTRACTION (The Arsenal)
+
+<div align="center">
+
+**Development & Architecture** <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,docker,nginx,postgres,git,vscode&theme=dark" alt="Dev Skills" />
+
+**Security & Reverse Engineering** <img src="https://skillicons.dev/icons?i=kali,linux,bash,vim,powershell,githubactions,md,apple,raspberrypi&theme=dark" alt="Sec Skills" />
+
 </div>
 
 ---
 
-### 🟢 SYSTEM_STATUS: ONLINE (0x3r9sus)
+### 📈 RECON_DATA (GitHub Metrics)
 
-> **"If you want to know how something works, you have to break it first."**
-> 
-> I am a **Systems Developer** and **Reverse Engineer** currently navigating the final tiers of the **1337 (42 Network)** curriculum. I specialize in low-level memory management, binary analysis, and building high-concurrency systems. My playground is the boundary between the hardware and the application layer.
-
----
-
-### 🕹️ KERNEL_PROGRESS (42 Journey)
-
-Inside the 1337 curriculum, I have moved from basic libc reimplementation to building complete virtual environments.
-
-| Tier | Project | Status | Objective |
-| :--- | :--- | :--- | :--- |
-| **0x01** | `Libft` | `[DONE]` | Rebuilding the standard C library. |
-| **0x02** | `Pipex` / `Push_swap` | `[DONE]` | Mastering Unix pipes and sorting algorithms. |
-| **0x03** | `Philosophers` | `[DONE]` | Threading, Mutexes, and Data Races. |
-| **0x04** | `cub3d` | `[DONE]` | DDA Raycasting & Graphic Rendering. |
-| **0x05** | `Webserv` | `[DONE]` | C++ Non-blocking HTTP/1.1 Server. |
-| **0x06** | `Inception` | `[DONE]` | System Administration & Docker Orchestration. |
-| **0x07** | `Transcendence` | `[LOADING]` | The Final Boss: High-Performance Web Architecture. |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserbarhdadi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasserbarhdadi&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" width="48%" />
+  
+  <br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasserbarhdadi&theme=radical&hide_border=true&background=0d1117" width="100%" />
+</div>
 
 ---
 
-### 🛠️ DISASSEMBLY_VIEW (Technical Skills)
+### 📡 IO_CHANNELS (Establish Connection)
 
-```nasm
-SECTION .data
-    langs    db  'C', 'C++', 'Python', 'Asm', 0
-    devops   db  'Docker', 'Nginx', 'Infrastructure', 0
+<div align="center">
 
-SECTION .text
-    global _start
+<a href="mailto:yasser.barhdadi@hotmail.com">
+  <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/yasserbarhdadi">
+  <img src="https://img.shields.io/badge/Github-3r9sus-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://profile.intra.42.fr/users/yabarhda">
+  <img src="https://img.shields.io/badge/Intra-yabarhda-00BABC?style=for-the-badge&logo=42&logoColor=white" />
+</a>
 
-_start:
-    ; Reverse Engineering & Memory Analysis
-    mov eax, [PINCE]         ; Memory Editing & Pointer Scanning
-    mov ebx, [GDB]           ; Dynamic Binary Analysis
-    mov ecx, [CheatEngine]   ; Runtime Logic Patching
-    call breach_logic        ; Analyzing binaries for vulnerabilities
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=yasserbarhdadi&label=SYSTEM_ACCESSES&color=20C20E&style=flat-square" alt="Views" />
+
+</div>
