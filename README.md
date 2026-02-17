@@ -1,94 +1,106 @@
-<div>
+<hr>
+
+<br />
 
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Yasser+Barhdadi" alt="Title GitHub Readme" />
   </a>
 </h1>
-</div>
+
+<br /><br />
 
 <div align="center">
-
-<br />
 
 <a href="https://profile.intra.42.fr/users/yabarhda">
   <img src="https://badge.mediaplus.ma/darkblue/yabarhda" alt="yabarhda's 42 stats" />
 </a>
 <br />
 <a href="https://42.fr/">
-  <img src="https://img.shields.io/badge/Network-1337_Network-blue?style=for-the-badge&logo=42&logoColor=white" alt="1337 School" />
+  <img src="https://img.shields.io/badge/1337-42_Network-black?style=for-the-badge&logo=42&logoColor=white" alt="1337 School" />
 </a>
 
-<br /><br />
+<br />
 
-<code><b>STUDENT @ 1337</b></code> | <code><b>REVERSE ENGINEER</b></code> | <code><b>SYSTEMS DEVELOPER</b></code>
+<code><b>STUDENT @ 1337 (42 Network)</b></code> |
+<code><b>FULL-STACK SOFTWARE ENGINEER</b></code> |
+<code><b>SYSTEMS & BACKEND SPECIALIST</b></code>
 
-<br /><br />
+<br />
 
 ---
 
 <p align="center">
-  I am a <b>Low-Level Specialist</b> passionate about the boundary between hardware and software.<br/> 
-  Whether it's implementing <b>DDA raycasting</b> in C or performing <b>runtime memory patches</b> on ELF binaries,<br/> 
-  I focus on performance, security, and understanding the binary truth.
+  I engineer software across the entire stack — from low-level systems in C/C++  
+  to scalable backend services and modern frontend interfaces.<br/><br/>
+
+  Currently developing a high-performance HTTP server in C++ (Webserv),  
+  while building production-ready backend APIs with Node.js ecosystems  
+  and interactive frontend applications with React.
 </p>
 
 ---
 
 </div>
 
-### 📂 SYSTEM_LOG: Featured Projects
+### 🧠 CORE COMPETENCIES
+
+- **Backend Engineering**  
+  RESTful API design • Authentication & Authorization (JWT) • Middleware architecture •  
+  Async programming • Non-blocking I/O • Server-side performance optimization  
+
+- **Frontend Development**  
+  React • Component architecture • Hooks • State management •  
+  Responsive UI • SPA development • Modern JS tooling  
+
+- **Systems Programming**  
+  Memory management • Unix internals • Socket programming •  
+  epoll/select multiplexing • Low-level debugging  
+
+- **DevOps & Infrastructure**  
+  Dockerized environments • Nginx reverse proxy • CI/CD pipelines •  
+  Container orchestration fundamentals • Linux server management  
+
+- **Security & Reverse Engineering**  
+  Runtime memory analysis • Binary inspection • GDB debugging •  
+  Understanding of ELF structure & process memory layout  
+
+---
+
+### 📂 FEATURED_PROJECTS
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🛡️ Memory Research** | Live memory patching and pointer scanning on Linux games. Bypassing logic via AOB injection. | `PINCE` `C++` `GDB` |
-| **🌐 Webserv** | High-concurrency HTTP/1.1 server using non-blocking I/O multiplexing. | `C++` `Sockets` `Unix` |
-| **🕹️ cub3d** | A 3D graphics engine built from scratch using the Digital Differential Analyzer (DDA) algorithm. | `C` `MinilibX` `Math` |
-| **🐳 Inception** | Complete DevOps orchestration of a containerized infrastructure under strict isolation. | `Docker` `Bash` `Nginx` |
+| 🌐 **Webserv (In Progress)** | High-performance HTTP/1.1 server with non-blocking I/O multiplexing. | `C++` `Sockets` `epoll` |
+| 🕹️ **cub3d** | 3D raycasting engine using DDA algorithm with manual rendering pipeline. | `C` `MinilibX` |
+| 🐳 **Inception** | Fully containerized infrastructure with isolated services & reverse proxy setup. | `Docker` `Nginx` |
+| 🛡️ **Memory Research** | Live runtime memory inspection & binary behavior analysis on Linux systems. | `C++` `GDB` |
 
 ---
 
-### 🛠️ HARDWARE_ABSTRACTION (The Arsenal)
+### ⚙️ TECH STACK
 
 <div align="center">
 
-**Development & Architecture** <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,docker,nginx,postgres,git,vscode&theme=dark" alt="Dev Skills" />
+**Languages**  
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python&theme=dark" />
 
-**Security & Reverse Engineering** <img src="https://skillicons.dev/icons?i=kali,linux,bash,vim,powershell,githubactions,md,apple,raspberrypi&theme=dark" alt="Sec Skills" />
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis&theme=dark" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+
+**DevOps & Systems**  
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions,bash&theme=dark" />
 
 </div>
 
 ---
 
-### 📈 RECON_DATA (GitHub Metrics)
+### 🎯 ENGINEERING PHILOSOPHY
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserbarhdadi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yasserbarhdadi&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" width="48%" />
-  
-  <br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasserbarhdadi&theme=radical&hide_border=true&background=0d1117" width="100%" />
-</div>
+I value performance, clarity, and understanding what happens beneath abstractions.  
+Whether debugging raw memory or designing API layers, I prioritize correctness, scalability, and clean architecture.
 
 ---
-
-### 📡 IO_CHANNELS (Establish Connection)
-
-<div align="center">
-
-<a href="mailto:yasser.barhdadi@hotmail.com">
-  <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/yasserbarhdadi">
-  <img src="https://img.shields.io/badge/Github-3r9sus-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://profile.intra.42.fr/users/yabarhda">
-  <img src="https://img.shields.io/badge/Intra-yabarhda-00BABC?style=for-the-badge&logo=42&logoColor=white" />
-</a>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=yasserbarhdadi&label=SYSTEM_ACCESSES&color=20C20E&style=flat-square" alt="Views" />
-
-</div>
