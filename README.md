@@ -4,22 +4,22 @@
 
   <br />
 
+  <a href="https://github.com/yasserbarhdadi">
+    <img src="https://img.shields.io/badge/Alias-3r9sus-black?style=for-the-badge&logo=target&logoColor=white" alt="3r9sus" />
+  </a>
   <a href="https://42.fr/">
     <img src="https://img.shields.io/badge/School-1337_(42_Network)-blue?style=for-the-badge&logo=42&logoColor=white" alt="1337 School" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/OS-Kali_Linux-blueviolet?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Focus-Reverse_Engineering-red?style=for-the-badge&logo=probot&logoColor=white" alt="Reverse Engineering" />
+    <img src="https://img.shields.io/badge/Focus-Reverse_Engineering-red?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Reverse Engineering" />
   </a>
 
   <br /> <br />
 
   <p align="center">
     <b>/root/whoami</b><br/>
-    I am a <b>System-Oriented Developer</b> at 1337 (42 Network) specializing in low-level architecture and binary analysis.<br/>
-    My approach is rooted in understanding the "ground truth" of software. I spend my time building high-performance systems in <b>C++</b> and tearing them apart via <b>Reverse Engineering</b>. Currently focusing on memory manipulation, game logic patching, and automating vulnerability research in compiled binaries.
+    I am a <b>System-Oriented Developer</b> and <b>Reverse Engineer</b> bridging the gap between low-level software architecture and binary analysis.<br/>
+    My approach is rooted in understanding the "ground truth" of software. I spend my time building high-performance systems in C++ and tearing them apart via memory manipulation and dynamic analysis. Currently focused on automating vulnerability research in compiled binaries and game logic patching.
   </p>
 
   <br />
@@ -34,19 +34,20 @@
 
 ### 📡 Featured Projects & Lab Work
 
-*(Proof of concept: From algorithmic efficiency to binary manipulation)*
+*(Proof of concept: Building secure systems and breaking insecure ones)*
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🎮 cub3d** | A 3D Raycaster engine implementing the **DDA Algorithm**. Optimized for rendering performance and mathematical accuracy in C. | `C` `MinilibX` `Math` |
-| **🛠️ Memory Research** | Exploration of dynamic memory editing and pointer scanning in Linux environments. Focused on bypassing game logic via memory injection. | `PINCE` `GDB` `C++` |
-| **🐳 Inception** | A systemic approach to infrastructure, deploying a multi-service architecture (Nginx, MariaDB, WordPress) using **Docker** and Alpine. | `Docker` `Bash` `DevOps` |
+| **🎮 cub3d** | A 3D Raycaster engine built from scratch using the DDA algorithm. Optimized for rendering performance and mathematical accuracy. | `C` `MinilibX` `Math` |
+| **🛠️ Memory Research** | Exploration of dynamic memory editing and pointer scanning. Focused on bypassing game logic via AOB injection and runtime patching. | `PINCE` `GDB` `C++` |
+| **🌐 Webserv** | A C++ 98 compliant HTTP/1.1 server. Implements non-blocking I/O and multiplexing to handle multiple client requests simultaneously. | `C++` `Sockets` `Unix` |
+| **🐳 Inception** | A systemic approach to infrastructure, deploying a multi-service architecture (Nginx, MariaDB, WordPress) using Docker. | `Docker` `Bash` `Alpine` |
 
 ---
 
 ### 💻 The Dual Arsenal
 
-Bridging the gap between software construction and binary deconstruction.
+Integration of high-level development standards with low-level binary analysis.
 
 <div align="center">
   <table align="center">
@@ -54,12 +55,12 @@ Bridging the gap between software construction and binary deconstruction.
       <td align="center" width="50%">
         <b>🛠️ Development & Systems</b>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,docker,nginx,git,vscode&theme=dark&perline=6" alt="Dev Skills" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,docker,nginx,git,postgres,vscode&theme=dark&perline=5" alt="Dev Skills" />
       </td>
       <td align="center" width="50%">
         <b>⚔️ Reverse Engineering</b>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=kali,bash,linux,vim,powershell,githubactions,md&theme=dark&perline=6" alt="Sec Skills" />
+        <img src="https://skillicons.dev/icons?i=kali,bash,linux,vim,powershell,githubactions,md,apple,raspberrypi&theme=dark&perline=5" alt="Sec Skills" />
       </td>
     </tr>
   </table>
@@ -69,20 +70,20 @@ Bridging the gap between software construction and binary deconstruction.
 
 ---
 
-### 🎯 Reverse Engineering & Systems Focus
+### 🎯 Systems & Binary Research Focus
 
 My research centers on how software behaves at the instruction level and how to manipulate that behavior.
 
-| **Capability** | **Methodology** | **Tooling** |
+| **Research Area** | **Competency** | **Methodology & Tooling** |
 | :--- | :--- | :--- |
-| 🔍 **Memory Editing** | Pointer scanning, AOB injection, and runtime patching. | `PINCE`, `Cheat Engine`, `Game Conqueror` |
-| 🏗️ **System Internals** | Understanding kernel/user-land boundaries and non-blocking I/O. | `C++`, `Sockets`, `Select/Poll` |
-| 🛡️ **Binary Analysis** | Static and dynamic analysis of ELF binaries for vulnerability research. | `GDB`, `Objdump`, `Strings` |
-| ⚙️ **Infrastructure** | Containerizing and securing complex dev environments. | `Docker`, `Virtual Machines`, `Kali` |
+| 🔍 **Memory Editing** | 🟩 Proficient | `PINCE`, `Cheat Engine`, Pointer Scanning, AOB Injection |
+| 🏗️ **System Internals** | 🟩 Proficient | `C++`, Non-blocking Sockets, I/O Multiplexing, Kernel/User-land |
+| 🛡️ **Binary Analysis** | 🟨 Intermediate | `GDB`, `Objdump`, Static/Dynamic Analysis of ELF binaries |
+| ⚙️ **Infrastructure** | 🟩 Proficient | `Docker`, Container Security, Virtualization, Kali Linux |
 
 ---
 
-### 📊 GitHub Pulse
+### 📊 Code & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserbarhdadi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" />
@@ -106,7 +107,10 @@ My research centers on how software behaves at the instruction level and how to 
   <a href="https://github.com/yasserbarhdadi">
     <img src="https://img.shields.io/badge/Github-0x3r9sus-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:yasser.barhdadi@hotmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://profile.intra.42.fr/users/yabarhda">
+    <img src="https://img.shields.io/badge/Intra-yabarhda-00BABC?style=flat&logo=42&logoColor=white" />
   </a>
 </div>
