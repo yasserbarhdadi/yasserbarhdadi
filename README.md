@@ -7,8 +7,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=LOADING_EXPLOIT_0x3R9SUS...;BYPASSING_KERNEL_PROTECTION...;ACCESS_GRANTED:_YASSER_BARHDADI" alt="Typing SVG" />
-
 <br />
 
 <a href="https://profile.intra.42.fr/users/yabarhda">
@@ -20,8 +18,6 @@
 </a>
 
 <br /><br />
-
-<h3> "Software is just a lock. I build the keys." </h3>
 
 <code><b>STUDENT @ 1337</b></code> | <code><b>REVERSE ENGINEER</b></code> | <code><b>SYSTEMS DEVELOPER</b></code>
 
